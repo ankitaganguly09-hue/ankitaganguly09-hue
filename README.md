@@ -5,22 +5,22 @@ Currently transitioning into AI Engineering by building practical applications u
 
 ## 🚀 Featured Projects
 
-### IncidentIQ
+### 1. IncidentIQ
 AI-powered incident analysis system (inspired by real life experience) for network security RCA using RAG, LangChain, and multi-agent reasoning.
 
-### DeepSage
+### 2. DeepSage
 Multi-agent AI research system built with LangChain, tools and specialized AI agents that collaborate to perform deep research on any topic.
 
-### Evoria
+### 3. Evoria
 Multi-Agent AI system that turns a single idea into a complete, structured event plan using LangGraph, Mistral AI, and RAG.
 
-### Veltrix
+### 4. Veltrix
 AI-powered Security Intelligence Console that allows users to query security knowledge from PDFs using RAG, LlamaIndex, HuggingFace embeddings and ChromaDB.
 
-### ChatterBox AI
+### 5. ChatterBox AI
 Conversational AI chatbot built using modern LLM frameworks.
 
-### n8n Agentic Workflow
+### 6. n8n Agentic Workflow
 Intelligent workflow automation using AI Agents and n8n.
 
 ## 🛠 Tech Stack
