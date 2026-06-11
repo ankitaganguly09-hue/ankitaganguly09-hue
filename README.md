@@ -1,37 +1,37 @@
-### Hi, I'm Ankita Ganguly 👋
+# Hi, I'm Ankita Ganguly 👋
 
 Python Developer with 7+ years of experience in Network Security, Automotive, Automation, and Software Development.
 Currently transitioning into AI Engineering by building practical applications using Multi-Agent Systems, RAG, LangChain, LangGraph, LlamaIndex, and OpenAI.
 
 ## 🚀 Featured Projects
 
-# IncidentIQ
+### IncidentIQ
 AI-powered incident analysis system (inspired by real life experience) for network security RCA using RAG, LangChain, and multi-agent reasoning.
 
-# DeepSage
+### DeepSage
 Multi-agent AI research system built with LangChain, tools and specialized AI agents that collaborate to perform deep research on any topic.
 
-# Evoria
+### Evoria
 Multi-Agent AI system that turns a single idea into a complete, structured event plan using LangGraph, Mistral AI, and RAG.
 
-# Veltrix
+### Veltrix
 AI-powered Security Intelligence Console that allows users to query security knowledge from PDFs using RAG, LlamaIndex, HuggingFace embeddings and ChromaDB.
 
-# ChatterBox AI
+### ChatterBox AI
 Conversational AI chatbot built using modern LLM frameworks.
 
-# n8n Agentic Workflow
+### n8n Agentic Workflow
 Intelligent workflow automation using AI Agents and n8n.
 
 ## 🛠 Tech Stack
 
-# Languages
+### Languages
 Python
 C
 SQL
 C++
 
-# AI & LLM
+### AI & LLM
 LangChain
 LangGraph
 LlamaIndex
@@ -40,16 +40,16 @@ RAG
 Multi-Agent Systems
 GenAI
 
-# Backend
+### Backend
 FastAPI
 Flask
 Django
 
-# Testing & Automation
+### Testing & Automation
 Selenium
 Pytest
 
-# Tools
+### Tools
 Git
 GitHub
 Copilot
@@ -59,14 +59,14 @@ FreeBSD
 POSTMAN
 Swagger
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 Production AI Systems
 Agentic AI Architectures
 OpenAI Ecosystem
 Advanced RAG Applications
 
-# 🎯 Career Goal
+## 🎯 Career Goal
 Building AI-powered applications and transitioning into AI Engineering roles by 2027.
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 LinkedIn: https://www.linkedin.com/in/ankita-ganguly-516318156/
