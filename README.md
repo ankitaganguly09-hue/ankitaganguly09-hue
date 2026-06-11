@@ -26,43 +26,43 @@ Intelligent workflow automation using AI Agents and n8n.
 ## 🛠 Tech Stack
 
 ### Languages
-Python
-C
-SQL
-C++
+Python, 
+C, 
+SQL, 
+C++ 
 
 ### AI & LLM
-LangChain
-LangGraph
-LlamaIndex
-OpenAI
-RAG
-Multi-Agent Systems
+LangChain, 
+LangGraph, 
+LlamaIndex, 
+OpenAI, 
+RAG, 
+Multi-Agent Systems, 
 GenAI
 
 ### Backend
-FastAPI
-Flask
+FastAPI, 
+Flask, 
 Django
 
 ### Testing & Automation
-Selenium
+Selenium, 
 Pytest
 
 ### Tools
-Git
-GitHub
-Copilot
-Codex
-Linux
-FreeBSD
-POSTMAN
+Git, 
+GitHub, 
+Copilot, 
+Codex, 
+Linux, 
+FreeBSD, 
+POSTMAN, 
 Swagger
 
 ## 📚 Currently Learning
-Production AI Systems
-Agentic AI Architectures
-OpenAI Ecosystem
+Production AI Systems, 
+Agentic AI Architectures, 
+OpenAI Ecosystem, 
 Advanced RAG Applications
 
 ## 🎯 Career Goal
