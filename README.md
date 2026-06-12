@@ -29,7 +29,7 @@ Intelligent workflow automation using AI Agents and n8n.
 Python, 
 C, 
 SQL, 
-C++ 
+C++
 
 ### AI & LLM
 LangChain, 
@@ -44,6 +44,9 @@ GenAI
 FastAPI, 
 Flask, 
 Django
+
+### Cloud Platform
+AWS
 
 ### Testing & Automation
 Selenium, 
